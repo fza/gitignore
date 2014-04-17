@@ -1,0 +1,77 @@
+
+#
+# ** Generic **
+#
+
+._*
+*~
+.bkp
+.directory
+
+
+#
+# OS X
+#
+
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+#
+# Windows
+#
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+
+#
+# Idea IDE Products
+#
+
+.idea/
+
+
+#
+# Sublime Text
+#
+
+*.sublime-workspace
+sftp-config.json
+
+
+#
+# C
+#
+
+*.o
+*.ko
+*.obj
+*.elf
+*.lib
+*.a
+*.dll
+*.so
+*.so.*
+*.dylib
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
