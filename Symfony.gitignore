@@ -60,11 +60,14 @@ sftp-config.json
 
 app/bootstrap*
 vendor/*
+bin/*
 */logs/*
 */cache/*
+!app/cache/.gitkeep
+!app/logs/.gitkeep
 web/uploads/*
 web/bundles/*
-app/config/parameters.ini
-app/config/parameters.yml
+app/config/parameters.*
+!app/config/parameters.*.dist
 composer.phar
 
