@@ -40,6 +40,13 @@ $RECYCLE.BIN/
 
 
 #
+# Supplemental project data
+#
+
+_data/*
+
+
+#
 # Xcode
 #
 
