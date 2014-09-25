@@ -75,6 +75,11 @@ sftp-config.json
 
 *.gem
 *.rbc
+*.bundle
+*.so
+*.o
+*.a
+mkmf.log
 /.config
 /coverage/
 /InstalledFiles

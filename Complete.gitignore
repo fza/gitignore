@@ -124,6 +124,11 @@ composer.phar
 
 *.gem
 *.rbc
+*.bundle
+*.so
+*.o
+*.a
+mkmf.log
 /.config
 /coverage/
 /InstalledFiles
