@@ -67,15 +67,14 @@ sftp-config.json
 #
 
 app/bootstrap*
-vendor/*
-bin/*
-*/logs/*
-*/cache/*
+/vendor/
+bin/
+*/logs/
+*/cache/
 !app/cache/.gitkeep
 !app/logs/.gitkeep
-web/uploads/*
-web/bundles/*
+web/bundles/
 app/config/parameters.*
 !app/config/parameters.*.dist
-composer.phar
+/composer.phar
 
